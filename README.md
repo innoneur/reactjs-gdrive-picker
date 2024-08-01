@@ -13,11 +13,11 @@ Google drive picker custom hook.
 
 With npm
 ```
-npm i github:innoneur/reactjs-ggdrive-picker
+npm i github:innoneur/reactjs-gdrive-picker
 ```
 With yarn
 ```
-yarn add github:innoneur/reactjs-ggdrive-picker
+yarn add github:innoneur/reactjs-gdrive-picker
 ```
 
 ### Usage

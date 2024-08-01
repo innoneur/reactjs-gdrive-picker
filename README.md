@@ -1,4 +1,5 @@
-# React-google-drive-picker
+# ReactJS GDrive Picker
+(forked from https://github.com/Jose-cd/React-google-drive-picker)
 
 Google drive picker
 

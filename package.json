@@ -1,6 +1,6 @@
 {
-  "name": "react-google-drive-picker",
-  "version": "1.2.2",
+  "name": "reactjs-gdrive-picker",
+  "version": "1.0.0",
   "description": "React google drive picker api",
   "types": "./dist",
   "main": "./dist/index.js",
@@ -11,13 +11,14 @@
     "lint": "eslint 'src/**/*.{js,ts,tsx}' --fix",
     "format": "prettier --write ./src/*"
   },
-  "author": "Jose-cd",
+  "orginal-author": "Jose-cd",
+  "author": "Innoneur",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Jose-cd/React-google-drive-picker.git"
+    "url": "https://github.com/innoneur/reactjs-gdrive-picker.git"
   },
   "bugs": {
-    "url": "https://github.com/Jose-cd/React-google-drive-picker/issues"
+    "url": "https://github.com/innoneur/reactjs-gdrive-picker/issues"
   },
   "license": "MIT",
   "keywords": [

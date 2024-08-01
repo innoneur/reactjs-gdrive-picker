@@ -1,11 +1,11 @@
 # ReactJS GDrive Picker
 
-Google drive picker (forked from https://github.com/Jose-cd/React-google-drive-picker @ v1.2.2). This was forked since we found the orginal repo was not maintained (as of this fork) and we wanted to manage and keep this code updated for us and for other developers.  
-
+Google drive picker using ReactJS.
 
 ## Description
 
 Google drive picker custom hook.
+Forked repo has version starting at v1.0.0
 
 ## Getting Started
 
@@ -106,9 +106,6 @@ export default App;
 ## Author(s)
 * [Innoneur](https://github.com/innoneur)
 
-## Acknowledgments
-Orginal Author [@Jose medina](https://www.linkedin.com/in/jos%C3%A9-medina-56479a128/) of https://github.com/Jose-cd/React-google-drive-picker
 
-Inspiration, code snippets
-* [sdoomz](https://github.com/sdoomz/react-google-picker)
-* [obonyojimmy](https://github.com/obonyojimmy/react-drive-picker#readme)
+## Acknowledgments
+Forked from https://github.com/Jose-cd/React-google-drive-picker (v1.2.2) by [@Jose medina](https://www.linkedin.com/in/jos%C3%A9-medina-56479a128/)

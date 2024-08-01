@@ -1,7 +1,7 @@
 # ReactJS GDrive Picker
-(forked from https://github.com/Jose-cd/React-google-drive-picker)
 
-Google drive picker
+Google drive picker (forked from https://github.com/Jose-cd/React-google-drive-picker @ v1.2.2). This was forked since we found the orginal repo was not maintained (as of this fork) and we wanted to manage and keep this code updated for us and for other developers.  
+
 
 ## Description
 
@@ -13,18 +13,18 @@ Google drive picker custom hook.
 
 With npm
 ```
-npm i react-google-drive-picker
+npm i github:innoneur/reactjs-ggdrive-picker
 ```
 With yarn
 ```
-yarn add react-google-drive-picker
+yarn add github:innoneur/reactjs-ggdrive-picker
 ```
 
 ### Usage
 
 ```js
 import  { useEffect } from 'react';
-import useDrivePicker from 'react-google-drive-picker'
+import useDrivePicker from 'reactjs-ggdrive-picker'
 
 
 function App() {
@@ -103,12 +103,12 @@ export default App;
 |    PDFS               |PDF files stored in Google Drive.|
 |    SPREADSHEETS       |Google Drive Spreadsheets.       |
 
-## Author
-
-[@Jose medina](https://www.linkedin.com/in/jos%C3%A9-medina-56479a128/)
-
+## Author(s)
+* [Innoneur](https://github.com/innoneur)
 
 ## Acknowledgments
+Orginal Author [@Jose medina](https://www.linkedin.com/in/jos%C3%A9-medina-56479a128/) of https://github.com/Jose-cd/React-google-drive-picker
+
 Inspiration, code snippets
 * [sdoomz](https://github.com/sdoomz/react-google-picker)
 * [obonyojimmy](https://github.com/obonyojimmy/react-drive-picker#readme)

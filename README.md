@@ -24,7 +24,7 @@ yarn add github:innoneur/reactjs-gdrive-picker
 
 ```js
 import  { useEffect } from 'react';
-import useDrivePicker from 'reactjs-ggdrive-picker'
+import useDrivePicker from 'reactjs-gdrive-picker'
 
 
 function App() {
